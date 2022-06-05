@@ -18,6 +18,11 @@ bot.variables({
  cat:"5", // botunuzun variablesleri
 })
 
+bot.status({
+ text: "ghostdevxd",
+ type:"WATCHING",
+ time:"12"
+})
 bot.readyCommand({
     channel: "",
     code: `
