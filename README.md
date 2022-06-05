@@ -1,2 +1,3 @@
-# aoijs-template
-Aoi.js V5.2.0 Boş Altyapı | Anlatımlı
+# Aoi.JS V5 Boş Altyapı
+### Kullanım
+Botu çalıştırmak için `bot.js` dosyasında `token` kısmını doldurmanız.
