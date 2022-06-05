@@ -1,7 +1,7 @@
 <h1 align="center">Aoi.JS Boş Altyapı</h1>
 
 # 📜 Açıklama
-Discord Developer Portaldan botunuzdaki tüm intentleri açtığınızdan emin olum! <br>
+Discord Developer Portaldan botunuzdaki tüm intentleri açtığınızdan emin olun! <br>
 Botunuzu çalıştırmak için `bot.js` dosyasına girin ve `token` kısmını doldurun.
 
 # 📁 Fotoğraf
