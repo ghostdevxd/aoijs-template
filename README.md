@@ -5,5 +5,5 @@ Discord Developer Portaldan botunuzdaki tüm imtentleri açtığınızdan emin o
 Botunuzu çalıştırmak için `bot.js` dosyasına girin ve `token` kısmını doldurun.
 
 ### Bot 
-[![Bot Status](https://media.discordapp.net/attachments/982935241557696563/982935252437725214/unknown.png?width=107&height=57)]() <br>
-[![Bot Commands Test](https://media.discordapp.net/attachments/982935241557696563/982936352888868944/unknown.png?width=430&height=362)]()
+[![Bot Status](https://media.discordapp.net/attachments/982935241557696563/982935252437725214/unknown.png?width=107&height=57)](https://media.discordapp.net/attachments/982935241557696563/982935252437725214/unknown.png?width=107&height=57) <br>
+[![Bot Commands Test](https://media.discordapp.net/attachments/982935241557696563/982936352888868944/unknown.png?width=430&height=362)](https://media.discordapp.net/attachments/982935241557696563/982936352888868944/unknown.png?width=430&height=362)
