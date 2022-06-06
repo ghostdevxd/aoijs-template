@@ -1,7 +1,7 @@
 <h1 align="center">Aoi.JS Boş Altyapı</h1>
 
 # 📜 Açıklama
-Terminale `npm install aoi.js@5.1.2` yazın. <br>
+Terminale `npm install aoi.js@5.2.0` yazın. <br>
 Discord Developer Portaldan botunuzdaki tüm intentleri açtığınızdan emin olun! <br>
 Botunuzu çalıştırmak için `bot.js` dosyasına girin ve `token` kısmını doldurun.
 
