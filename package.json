@@ -12,6 +12,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "aoi.js": "^5.2.0"
+    "aoi.js": "^5.5.0"
   }
 }
